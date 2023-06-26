@@ -1,0 +1,14 @@
+# Archivos generados
+node_modules/
+dist/
+*.log
+
+# Variables de entorno
+.env
+
+# Archivos de configuración local
+config.local.js
+
+# Archivos de respaldo
+*.bak
+*.swp
